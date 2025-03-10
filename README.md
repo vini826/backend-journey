@@ -9,7 +9,6 @@ Este repositório contém o meu caminho de aprendizado na área de Desenvolvimen
 - [Busca Linear](algoritmos-estruturas-dados/semana-1/busca-linear)
 - [Busca Binária](algoritmos-estruturas-dados/semana-1/busca-binaria)
 
-C:\Users\vinicius\Documents\code\backend-journey\algoritmos-estruturas-dados\semana 1\bubble-sort
 
 ## Como Usar
 
