@@ -4,10 +4,11 @@ Este repositório contém o meu caminho de aprendizado na área de Desenvolvimen
 
 ## Algoritmos Implementados
 
-- [Bubble Sort](algoritmos-estruturas-dados/semana-1/bubble-sort)
-- [Quick Sort](algoritmos-estruturas-dados/semana-1/quick-sort)
-- [Busca Linear](algoritmos-estruturas-dados/semana-1/busca-linear)
-- [Busca Binária](algoritmos-estruturas-dados/semana-1/busca-binaria)
+- [Bubble Sort](Estudos/semana-1/bubble-sort)
+- [Quick Sort](Estudos/semana-1/quick-sort)
+- [Busca Linear](Estudos/semana-1/busca-linear)
+- [Busca Binária](Estudos/semana-1/busca-binaria)
+- [Merge Sort](Estudos/semana-2/merge-sort-implementation)
 
 
 ## Como Usar
