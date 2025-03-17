@@ -19,6 +19,10 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 - [Pilhas](Estudos/semana-3/pilha) - Estrutura **LIFO (Last In, First Out)**, aplicada em chamadas de função, undo/redo, etc.
 - [Filas](Estudos/semana-3/fila) - Estrutura **FIFO (First In, First Out)**, aplicada em processamento de tarefas, filas de atendimento, etc.
 
+## 🔹 Semana 4: Estruturas de Dados Dinâmicas  
+- [Listas Encadeadas](Estudos/semana-4/ListaEncadeada) - Estrutura que permite a alocação dinâmica de memória, utilizada em implementações de histórico, manipulação de grandes volumes de dados, etc.  
+- [Árvores Binárias](Estudos/semana-4/ÁrvoreBinária) - Estrutura hierárquica eficiente para busca e organização de dados, aplicada em bancos de dados, inteligência artificial, compressão de dados, etc.  
+
 ### 🔹 Futuras Semanas
 📌 **Árvores e Grafos** – Implementação de árvores binárias, grafos e algoritmos de busca como BFS e DFS.
 📌 **Tabelas Hash** – Estruturas eficientes para armazenamento e recuperação de dados.
