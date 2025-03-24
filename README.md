@@ -6,28 +6,33 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 
 ## 📌 Conteúdo do Repositório
 
-### 🔹 Semana 1: Algoritmos de Ordenação e Busca Básicos
-- [Bubble Sort](Estudos/semana-1/bubble-sort) - Algoritmo simples de ordenação baseado em comparações adjacentes.
-- [Quick Sort](Estudos/semana-1/quick-sort) - Algoritmo eficiente baseado em divisão e conquista.
-- [Busca Linear](Estudos/semana-1/busca-linear) - Percorre sequencialmente uma lista até encontrar o elemento desejado.
-- [Busca Binária](Estudos/semana-1/busca-binaria) - Busca eficiente em listas ordenadas dividindo o espaço de busca pela metade.
+### Semana 1: Algoritmos de Ordenação e Busca Básicos
+- [Bubble Sort](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-1\bubble-sort) - Algoritmo simples de ordenação baseado em comparações adjacentes.
+- [Quick Sort](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-1\quick-sort) - Algoritmo eficiente baseado em divisão e conquista.
+- [Busca Linear](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-1\busca-linear) - Percorre sequencialmente uma lista até encontrar o elemento desejado.
+- [Busca Binária](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-1\busca-binaria) - Busca eficiente em listas ordenadas dividindo o espaço de busca pela metade.
 
-### 🔹 Semana 2: Ordenação Avançada
-- [Merge Sort](Estudos/semana-2/merge-sort-implementation) - Algoritmo baseado em divisão e conquista, eficiente para grandes conjuntos de dados.
+---
 
-### 🔹 Semana 3: Estruturas de Dados Fundamentais
-- [Pilhas](Estudos/semana-3/pilha) - Estrutura **LIFO (Last In, First Out)**, aplicada em chamadas de função, undo/redo, etc.
-- [Filas](Estudos/semana-3/fila) - Estrutura **FIFO (First In, First Out)**, aplicada em processamento de tarefas, filas de atendimento, etc.
+### Semana 2: Ordenação Avançada
+- [Merge Sort](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-2\merge-sort-implementation) - Algoritmo baseado em divisão e conquista, eficiente para grandes conjuntos de dados.
 
-### 🔹 Semana 4: Estruturas de Dados Dinâmicas  
-- [Listas Encadeadas](Estudos/semana-4/ListaEncadeada) - Estrutura que permite a alocação dinâmica de memória, utilizada em implementações de histórico, manipulação de grandes volumes de dados, etc.  
-- [Árvores Binárias](Estudos/semana-4/ÁrvoreBinária) - Estrutura hierárquica eficiente para busca e organização de dados, aplicada em bancos de dados, inteligência artificial, compressão de dados, etc.  
+---
 
-### 🔹 Futuras Semanas
-📌 **Árvores e Grafos** – Implementação de árvores binárias, grafos e algoritmos de busca como BFS e DFS.
-📌 **Tabelas Hash** – Estruturas eficientes para armazenamento e recuperação de dados.
-📌 **Padrões de Projeto** – Exploração de boas práticas no desenvolvimento back-end.
-📌 **Autenticação e Autorização** – Implementação de JWT e OAuth para segurança em APIs.
+### Semana 3: Estruturas de Dados Fundamentais
+- [Pilhas](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-3\pilha) - Estrutura **LIFO (Last In, First Out)**, aplicada em chamadas de função, undo/redo, etc.
+- [Filas](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-3\fila) - Estrutura **FIFO (First In, First Out)**, aplicada em processamento de tarefas, filas de atendimento, etc.
+
+---
+
+### Semana 4: Estruturas de Dados Dinâmicas
+- [Listas Encadeadas](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-4\ListaEncadeada) - Estrutura que permite a alocação dinâmica de memória, utilizada em implementações de histórico, manipulação de grandes volumes de dados, etc.
+- [Árvores Binárias](C:\Users\vinicius\Documents\code\backend-journey\Estudos\AlgortimosDeBusca\semana-4\ÁrvoreBinária) - Estrutura hierárquica eficiente para busca e organização de dados, aplicada em bancos de dados, inteligência artificial, compressão de dados, etc.
+
+---
+
+### Banco de Dados - Semana 1
+- [Script SQL](C:\Users\vinicius\Documents\code\backend-journey\Estudos\BancoDeDados\semana-1\banco_de_dados.sql) - Script inicial para criação de tabelas, inserção de dados e consultas básicas.
 
 ---
 
@@ -58,4 +63,6 @@ Se você tem sugestões ou melhorias, fique à vontade para contribuir! 💡
 ---
 
 🔗 **Vamos codificar juntos!** Confira o repositório: [GitHub - Backend Journey](https://github.com/seu-usuario/backend-journey)
+
+
 
