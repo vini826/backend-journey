@@ -20,14 +20,14 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 ---
 
 ### Semana 3: Estruturas de Dados Fundamentais
-- [Pilhas](Estudos/AlgDeBusca/semana-3/pilha) - Estrutura **LIFO (Last In, First Out)**, aplicada em chamadas de função, undo/redo, etc.
-- [Filas](Estudos/AlgDeBusca/semana-3/fila) - Estrutura **FIFO (First In, First Out)**, aplicada em processamento de tarefas, filas de atendimento, etc.
+- [Pilhas](Estudos/AlgDeBusca/semana-3) - Estrutura **LIFO (Last In, First Out)**, aplicada em chamadas de função, undo/redo, etc.
+- [Filas](Estudos/AlgDeBusca/semana-3) - Estrutura **FIFO (First In, First Out)**, aplicada em processamento de tarefas, filas de atendimento, etc.
 
 ---
 
 ### Semana 4: Estruturas de Dados Dinâmicas
-- [Listas Encadeadas](Estudos/AlgDeBusca/semana-4/lista-encadeada) - Estrutura que permite a alocação dinâmica de memória, utilizada em implementações de histórico, manipulação de grandes volumes de dados, etc.
-- [Árvores Binárias](Estudos/AlgDeBusca/semana-4/arvores-binarias) - Estrutura hierárquica eficiente para busca e organização de dados, aplicada em bancos de dados, inteligência artificial, compressão de dados, etc.
+- [Listas Encadeadas](Estudos/AlgDeBusca/semana-4) - Estrutura que permite a alocação dinâmica de memória, utilizada em implementações de histórico, manipulação de grandes volumes de dados, etc.
+- [Árvores Binárias](Estudos/AlgDeBusca/semana-4) - Estrutura hierárquica eficiente para busca e organização de dados, aplicada em bancos de dados, inteligência artificial, compressão de dados, etc.
 
 ---
 
