@@ -34,10 +34,10 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 ### Banco de Dados
 
 #### Semana 1: Script inicial para criação de tabelas, inserção de dados e consultas básicas.
-- [Script SQL - Semana 1](Estudos/BancoDeDados/semana-1/script-sql)
+- [Script SQL - Semana 1](Estudos/BancoDeDados/semana-1)
 
 #### Semana 2: Praticando JOINS e Subqueries em SQL
-- [Script SQL - Semana 2](Estudos/BancoDeDados/semana-2/script-sql)
+- [Script SQL - Semana 2](Estudos/BancoDeDados/semana-2)
 
 ---
 
