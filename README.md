@@ -7,7 +7,7 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 ## 📌 Conteúdo do Repositório
 
 ### Semana 1: Algoritmos de Ordenação e Busca Básicos
-- [Bubble Sort](Estudos/AlgoritmosDeBusca/semana-1/bubble-sort) - Algoritmo simples de ordenação baseado em comparações adjacentes.
+- [Bubble Sort](Estudos/AlgortimosDeBusca/semana-1/bubble-sort/) - Algoritmo simples de ordenação baseado em comparações adjacentes.
 - [Quick Sort](Estudos/AlgoritmosDeBusca/semana-1/quick-sort) - Algoritmo eficiente baseado em divisão e conquista.
 - [Busca Linear](Estudos/AlgoritmosDeBusca/semana-1/busca-linear) - Percorre sequencialmente uma lista até encontrar o elemento desejado.
 - [Busca Binária](Estudos/AlgoritmosDeBusca/semana-1/busca-binaria) - Busca eficiente em listas ordenadas dividindo o espaço de busca pela metade.
