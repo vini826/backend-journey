@@ -7,27 +7,27 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 ## 📌 Conteúdo do Repositório
 
 ### Semana 1: Algoritmos de Ordenação e Busca Básicos
-- [Bubble Sort](Estudos/AlgortimosDeBusca/semana-1) - Algoritmo simples de ordenação baseado em comparações adjacentes.
-- [Quick Sort](Estudos/AlgoritmosDeBusca/semana-1/quick-sort) - Algoritmo eficiente baseado em divisão e conquista.
-- [Busca Linear](Estudos/AlgoritmosDeBusca/semana-1/busca-linear) - Percorre sequencialmente uma lista até encontrar o elemento desejado.
-- [Busca Binária](Estudos/AlgoritmosDeBusca/semana-1/busca-binaria) - Busca eficiente em listas ordenadas dividindo o espaço de busca pela metade.
+- [Bubble Sort](Estudos/AlgDeBusca/semana-1/bubble-sort/) - Algoritmo simples de ordenação baseado em comparações adjacentes.
+- [Quick Sort](Estudos/AlgDeBusca/semana-1/quick-sort) - Algoritmo eficiente baseado em divisão e conquista.
+- [Busca Linear](Estudos/AlgDeBusca/semana-1/busca-linear) - Percorre sequencialmente uma lista até encontrar o elemento desejado.
+- [Busca Binária](Estudos/AlgDeBusca/semana-1/busca-binaria) - Busca eficiente em listas ordenadas dividindo o espaço de busca pela metade.
 
 ---
 
 ### Semana 2: Ordenação Avançada
-- [Merge Sort](Estudos/AlgoritmosDeBusca/semana-2/merge-sort-implementation) - Algoritmo baseado em divisão e conquista, eficiente para grandes conjuntos de dados.
+- [Merge Sort](Estudos/AlgDeBusca/semana-2/merge-sort-implementation) - Algoritmo baseado em divisão e conquista, eficiente para grandes conjuntos de dados.
 
 ---
 
 ### Semana 3: Estruturas de Dados Fundamentais
-- [Pilhas](Estudos/AlgoritmosDeBusca/semana-3/pilha) - Estrutura **LIFO (Last In, First Out)**, aplicada em chamadas de função, undo/redo, etc.
-- [Filas](Estudos/AlgoritmosDeBusca/semana-3/fila) - Estrutura **FIFO (First In, First Out)**, aplicada em processamento de tarefas, filas de atendimento, etc.
+- [Pilhas](Estudos/AlgDeBusca/semana-3/pilha) - Estrutura **LIFO (Last In, First Out)**, aplicada em chamadas de função, undo/redo, etc.
+- [Filas](Estudos/AlgDeBusca/semana-3/fila) - Estrutura **FIFO (First In, First Out)**, aplicada em processamento de tarefas, filas de atendimento, etc.
 
 ---
 
 ### Semana 4: Estruturas de Dados Dinâmicas
-- [Listas Encadeadas](Estudos/AlgoritmosDeBusca/semana-4/lista-encadeada) - Estrutura que permite a alocação dinâmica de memória, utilizada em implementações de histórico, manipulação de grandes volumes de dados, etc.
-- [Árvores Binárias](Estudos/AlgoritmosDeBusca/semana-4/arvores-binarias) - Estrutura hierárquica eficiente para busca e organização de dados, aplicada em bancos de dados, inteligência artificial, compressão de dados, etc.
+- [Listas Encadeadas](Estudos/AlgDeBusca/semana-4/lista-encadeada) - Estrutura que permite a alocação dinâmica de memória, utilizada em implementações de histórico, manipulação de grandes volumes de dados, etc.
+- [Árvores Binárias](Estudos/AlgDeBusca/semana-4/arvores-binarias) - Estrutura hierárquica eficiente para busca e organização de dados, aplicada em bancos de dados, inteligência artificial, compressão de dados, etc.
 
 ---
 
