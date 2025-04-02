@@ -39,6 +39,9 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 #### Semana 2: Praticando JOINS e Subqueries em SQL
 - [Script SQL - Semana 2](Estudos/BancoDeDados/semana-2)
 
+#### Semana 3: projeto utilizando um banco relacional 
+- [Script SQL - Semana 2](Estudos/BancoDeDados/semana-3)
+
 ---
 
 ## 🛠️ Como Usar Este Repositório
