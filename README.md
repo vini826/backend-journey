@@ -40,7 +40,7 @@ Este repositório contém o meu caminho de aprendizado na área de **Desenvolvim
 - [Script SQL - Semana 2](Estudos/BancoDeDados/semana-2)
 
 #### Semana 3: projeto utilizando um banco relacional 
-- [Script SQL - Semana 2](Estudos/BancoDeDados/semana-3)
+- [Script SQL - Semana 3](Estudos/BancoDeDados/semana-3)
 
 ---
 
